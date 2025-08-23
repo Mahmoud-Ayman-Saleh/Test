@@ -1,173 +1,347 @@
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\appsettings.Development.json
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\appsettings.json
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\efpt.config.json
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Test.staticwebassets.endpoints.json
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Test.exe
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Test.deps.json
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Test.runtimeconfig.json
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Test.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Test.pdb
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Azure.Core.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Azure.Identity.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Humanizer.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Build.Locator.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.OpenApi.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Mono.TextTemplating.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.ClientModel.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.CodeDom.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Composition.AttributedModel.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Composition.Convention.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Composition.Hosting.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Composition.Runtime.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Composition.TypedParts.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Drawing.Common.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Formats.Asn1.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Memory.Data.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Runtime.Caching.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Security.Permissions.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Text.Json.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\System.Windows.Extensions.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.csproj.AssemblyReference.cache
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.GeneratedMSBuildEditorConfig.editorconfig
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.AssemblyInfoInputs.cache
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.AssemblyInfo.cs
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.csproj.CoreCompileInputs.cache
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.MvcApplicationPartsAssemblyInfo.cs
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.MvcApplicationPartsAssemblyInfo.cache
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\scopedcss\bundle\Test.styles.css
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\staticwebassets.build.json
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\staticwebassets.development.json
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\staticwebassets\msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\staticwebassets\msbuild.Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\staticwebassets\msbuild.build.Test.props
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Test.props
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Test.props
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\staticwebassets.pack.json
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.csproj.Up2Date
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.dll
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\refint\Test.dll
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.pdb
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\Test.genruntimeconfig.cache
-D:\ASP.NET Projects\Web API Projects\Test\obj\Debug\net9.0\ref\Test.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Castle.Core.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Newtonsoft.Json.dll
-D:\ASP.NET Projects\Web API Projects\Test\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/appsettings.Development.json
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/appsettings.json
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/efpt.config.json
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Test.staticwebassets.endpoints.json
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Test.exe
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Test.deps.json
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Test.runtimeconfig.json
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Test.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Test.pdb
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Azure.Core.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Azure.Identity.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Humanizer.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.OpenApi.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Mono.TextTemplating.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.ClientModel.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.CodeDom.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Composition.Convention.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Composition.Hosting.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Composition.Runtime.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Composition.TypedParts.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Drawing.Common.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Formats.Asn1.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Memory.Data.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Runtime.Caching.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Security.Permissions.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Text.Json.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/System.Windows.Extensions.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.csproj.AssemblyReference.cache
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.AssemblyInfoInputs.cache
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.AssemblyInfo.cs
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.csproj.CoreCompileInputs.cache
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.MvcApplicationPartsAssemblyInfo.cs
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.MvcApplicationPartsAssemblyInfo.cache
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/scopedcss/bundle/Test.styles.css
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/staticwebassets.build.json
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/staticwebassets.development.json
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.build.Test.props
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Test.props
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Test.props
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/staticwebassets.pack.json
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.csproj.Up2Date
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.dll
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/refint/Test.dll
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.pdb
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/Test.genruntimeconfig.cache
+D:/ASP.NET Projects/Web API Projects/Test/obj/Debug/net9.0/ref/Test.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Castle.Core.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Proxies.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.AspNetCore.JsonPatch.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Newtonsoft.Json.dll
+D:/ASP.NET Projects/Web API Projects/Test/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/appsettings.Development.json
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/appsettings.json
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/efpt.config.json
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Test.staticwebassets.endpoints.json
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Test
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Test.deps.json
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Test.runtimeconfig.json
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Test.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Test.pdb
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Azure.Core.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Azure.Identity.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Castle.Core.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Humanizer.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.ClientModel.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.CodeDom.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Drawing.Common.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Formats.Asn1.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Memory.Data.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Runtime.Caching.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Security.Permissions.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Text.Json.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/System.Windows.Extensions.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/mahmoud/ASP.NET Projects/Test/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.csproj.AssemblyReference.cache
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.AssemblyInfoInputs.cache
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.AssemblyInfo.cs
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.csproj.CoreCompileInputs.cache
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.MvcApplicationPartsAssemblyInfo.cs
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.MvcApplicationPartsAssemblyInfo.cache
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.sourcelink.json
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/scopedcss/bundle/Test.styles.css
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/staticwebassets.build.json
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/staticwebassets.development.json
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.Test.Microsoft.AspNetCore.StaticWebAssets.props
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.build.Test.props
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Test.props
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Test.props
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/staticwebassets.pack.json
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.csproj.Up2Date
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.dll
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/refint/Test.dll
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.pdb
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/Test.genruntimeconfig.cache
+/home/mahmoud/ASP.NET Projects/Test/obj/Debug/net9.0/ref/Test.dll

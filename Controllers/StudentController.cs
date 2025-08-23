@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Test.Models;
 using Test.Repository;
 
@@ -9,36 +8,40 @@ namespace Test.Controllers
     [ApiController]
     public class StudentController : ControllerBase
     {
-        // TestDBContext db;
-        // public StudentController(TestDBContext db)
-        // {
-        //     this.db = db;
-        // }
+        private readonly IStudentRepository st;
+        private readonly TestDBContext db;
 
-        IStudentRepository st;
-
-        public StudentController(IStudentRepository st)
+        public StudentController(IStudentRepository st, TestDBContext db)
         {
             this.st = st;
+            this.db = db;
         }
 
         [HttpGet]
         public IActionResult Get()
         {
             var students = st.GetAllStudents();
-            
-            return Ok(students);
-        }
-        [HttpGet("{id:int}")]
 
+            var studentDtos = students.Select(s => new DTO.StudentDto
+            {
+                StudentID = s.StudentID,
+                FirstName = s.FirstName,
+                LastName = s.LastName,
+                Email = s.Email,
+                Phone = s.Phone,
+                DepartmentID = s.DepartmentID ?? 0,
+                DepartmentName = s.Department?.DepartmentName ?? "No Department"
+            }).ToList();
+
+            return Ok(studentDtos);
+        }
+
+        [HttpGet("{id:int}")]
         public IActionResult GetById(int id)
         {
             var student = st.GetStudentById(id);
-            if (student == null)
-            {
-                return NotFound();
-            }
-            // Map to DTO if needed
+            if (student == null) return NotFound();
+
             var studentDto = new DTO.StudentDto
             {
                 StudentID = student.StudentID,
@@ -46,27 +49,30 @@ namespace Test.Controllers
                 LastName = student.LastName,
                 Email = student.Email,
                 Phone = student.Phone,
-                DepartmentName = student.Department.DepartmentName
+                DepartmentID = student.DepartmentID ?? 0,
+                DepartmentName = student.Department?.DepartmentName ?? "No Department"
             };
             return Ok(studentDto);
         }
-        [HttpDelete]
-        public IActionResult delete(int id)
-        {
-            st.DeleteStudent(id);
-            st.save();
-            return NoContent();
-        }
 
-        [HttpGet("{name:alpha}")]
+        [HttpGet("byname/{name:alpha}")]
         public IActionResult GetByName(string name)
         {
             var students = st.GetStudentsByName(name);
-            if (students.Count == 0)
+            if (students.Count == 0) return NotFound();
+
+            var studentDtos = students.Select(s => new DTO.StudentDto
             {
-                return NotFound();
-            }
-            return Ok(students);
+                StudentID = s.StudentID,
+                FirstName = s.FirstName,
+                LastName = s.LastName,
+                Email = s.Email,
+                Phone = s.Phone,
+                DepartmentID = s.DepartmentID ?? 0,
+                DepartmentName = s.Department?.DepartmentName ?? "No Department"
+            }).ToList();
+
+            return Ok(studentDtos);
         }
 
         [HttpPost]
@@ -74,6 +80,13 @@ namespace Test.Controllers
         {
             if (student == null) return BadRequest("Student cannot be null");
             if (!ModelState.IsValid) return BadRequest(ModelState);
+
+            var departmentExists = db.Departments.Any(d => d.DepartmentID == student.DepartmentID);
+            if (!departmentExists)
+            {
+                return BadRequest($"Department with ID {student.DepartmentID} does not exist.");
+            }
+
             st.AddStudent(student);
             st.save();
             return CreatedAtAction("GetById", new { id = student.StudentID }, student);
@@ -84,7 +97,22 @@ namespace Test.Controllers
         {
             if (student == null) return BadRequest("Student cannot be null");
             if (!ModelState.IsValid) return BadRequest(ModelState);
+
+            var departmentExists = db.Departments.Any(d => d.DepartmentID == student.DepartmentID);
+            if (!departmentExists)
+            {
+                return BadRequest($"Department with ID {student.DepartmentID} does not exist.");
+            }
+
             st.UpdateStudent(student);
+            st.save();
+            return NoContent();
+        }
+
+        [HttpDelete("{id:int}")]
+        public IActionResult Delete(int id)
+        {
+            st.DeleteStudent(id);
             st.save();
             return NoContent();
         }
